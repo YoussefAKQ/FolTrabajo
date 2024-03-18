@@ -1,0 +1,30 @@
+.titulo {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.tabla {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-collapse:collapse;
+    min-width: 1200px;
+}
+
+td,th{
+    border: 2px solid black;
+    padding: 8px;
+    width: 200px;
+    height: 200px;
+}
+
+img {
+    width: 100%;
+    height: 300px;
+    width: 300px;
+}
+
+table td {
+    font-size: 175%;
+}
